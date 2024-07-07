@@ -1,0 +1,18 @@
+{
+  "name": "@limengbeta/react-native-video-player",
+  "version": "0.0.0",
+  "description": "a simple video player",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "create-react-native-library": {
+    "type": "view-legacy",
+    "languages": "kotlin-swift",
+    "version": "0.38.1"
+  }
+}
